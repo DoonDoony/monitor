@@ -1,4 +1,4 @@
-name: Scheduled Python Script
+name: Fetch new entries
 
 on:
   schedule:
